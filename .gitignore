@@ -1,3 +1,5 @@
 .venv/
 __pycache__/
 DLS-sem-1(CV)/HW-4-CNN-classification-models/MNIST/
+DLS-sem-1(CV)/HW-5-CNN-Simpson_classifier/dataset/
+DLS-sem-1(CV)/HW-5-CNN-Simpson_classifier/runs
